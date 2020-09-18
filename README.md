@@ -1,2 +1,2 @@
 # Word-Counter-Assignment
-this program count unique words in given string.
+This program count unique words in given string.
